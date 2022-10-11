@@ -7,4 +7,4 @@ by = float(input('Введите значения 2 точки на оси Y: ')
 AB = (((ax - bx)**2 + (ay - by)**2)**0.5)
 AB = int(AB * 100) / 100
 
-print(round(AB, 3))
+print(AB)
