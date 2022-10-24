@@ -4,7 +4,6 @@
 numbers = [1.1, 1.2, 3.1, 5, 10.01]
 min = numbers[0]
 max = 0
-
 for i in numbers:
     if (i - int(i)) <= min:
         min = i - int(i)

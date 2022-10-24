@@ -15,5 +15,5 @@ for i in range(len(numbers)):
         size -= 1
         comp = numbers[i] * numbers[size]
         i += 1 
-        print(f'Сумма произведения чисел расположенных на {i} и {size} поциях списка равна: {comp}')   
+        print(f'Сумма произведения чисел расположенных на {i} и {size} позициях списка равна: {comp}')   
 
